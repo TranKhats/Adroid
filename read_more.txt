@@ -1,2 +1,3 @@
 ﻿http://giasutinhoc.vn/android/huong-dan-su-dung-webservice-trong-android/
 http://www.vogella.com/tutorials/AndroidIntent/article.html
+GSON và https://realm.io/
