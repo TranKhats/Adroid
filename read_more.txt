@@ -3,3 +3,4 @@ http://www.vogella.com/tutorials/AndroidIntent/article.html
 GSON và https://realm.io/
 Oncreate() in SQLiteOpenHelper is not called
 https://stackoverflow.com/questions/6791852/android-sqliteopenhelper-why-oncreate-method-is-not-called
+khả
